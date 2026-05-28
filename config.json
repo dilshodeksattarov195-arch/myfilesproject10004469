@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasesync",
+        "uuid": 43907925,
+        "checksum": "riry2i"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
